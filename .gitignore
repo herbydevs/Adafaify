@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environments
+venv/
+env/
+
+# Model weights
+models/*.pt
+models/*.bin
+
+# Data
+data/raw/*
+data/processed/*
+
+# Notebooks
+*.ipynb_checkpoints
