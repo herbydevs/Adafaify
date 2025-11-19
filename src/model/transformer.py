@@ -8,4 +8,9 @@ class Transformer(nn.Module):
         super().__init__()
         self.vocab_size = vocab_size
         self.embedding_dim = embedding_dim
-        
+
+        self.token_embedding = nn.Embedding(vocab_size, embedding_dim)
+
+        self.pos_embedding = nn.Embedding(seq_len, embedding_dim)
+
+        self.attention = nn.MultiheadAttention(embed_dim=embedding_dim, num_heads=1)
