@@ -1,0 +1,31 @@
+Input sentence | Generated summary | Accuracy
+The quick brown fox jumps over the lazy dog. |  | 0.00
+Artificial intelligence is transforming the way we work. |  | 0.00
+Climate change is one of the most pressing issues of our time. |  | 0.00
+She baked a chocolate cake for her friend’s birthday. |  | 0.00
+The train arrived at the station five minutes early. |  | 0.00
+He studied all night for the mathematics exam. |  | 0.00
+The concert was postponed due to heavy rain. |  | 0.00
+Reading books helps improve vocabulary and imagination. |  | 0.00
+The new cafe in town serves the best coffee. |  | 0.00
+Technology has made communication faster and easier. |  | 0.00
+Wildlife conservation is crucial for maintaining biodiversity. |  | 0.00
+The movie was both thrilling and emotionally touching. |  | 0.00
+I enjoy taking long walks in the park during autumn. |  | 0.00
+Space exploration has fascinated humans for centuries. |  | 0.00
+The teacher explained the concept using simple examples. |  | 0.00
+Traveling abroad opens your mind to different cultures. |  | 0.00
+The chef prepared a delicious seafood pasta. |  | 0.00
+She adopted a rescued puppy from the animal shelter. |  | 0.00
+Learning a new language requires patience and practice. |  | 0.00
+The city skyline looked stunning at sunset. |  | 0.00
+He completed the marathon in just under four hours. |  | 0.00
+Fresh fruits and vegetables are essential for a healthy diet. |  | 0.00
+The author released a new mystery novel last month. |  | 0.00
+Online education has become more popular in recent years. |  | 0.00
+The children played happily in the playground. |  | 0.00
+Music can evoke strong emotions and memories. |  | 0.00
+He painted a beautiful landscape of the mountains. |  | 0.00
+The scientist presented her findings at the conference. |  | 0.00
+Volunteering helps build empathy and social skills. |  | 0.00
+The historical museum attracts tourists from all over the world. |  | 0.00
